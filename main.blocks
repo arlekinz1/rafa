@@ -1,4 +1,13 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_gesture_event" id="]v`Qc1Q%P.mXV9t~bJ6H" x="50" y="107"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="ok465*yq49XF$5/|+^8/"><field name="LEDS">`
+        . . . . . 
+        . . . . . 
+        . . . . . 
+        . . # . . 
+        . # # # .
+        `</field><next><block type="device_clear_display" id="LDPEPUtYJA~%:rkYBOtV"><next><block type="device_show_leds" id="fzi8#WM~`|QQ2h22^QP_"><field name="LEDS">`
+        . . # . . 
+        . # # # . 
+        # # # # # 
+        . . . . . 
+        . . . . .
+        `</field><next><block type="device_clear_display" id="{h|TD55._1`{,!2Z9lWG"></block></next></block></next></block></next></block></statement></block></xml>
